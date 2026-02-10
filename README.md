@@ -69,7 +69,7 @@ La ecualización de histograma tradicional mejora notablemente imágenes con baj
 
 CLAHE permite un realce local del contraste, evitando en muchos casos la sobre-amplificación del ruido y preservando mejor los detalles.
 
-💡 Aplicaciones
+ Aplicaciones
 
 Procesamiento de imágenes médicas
 
@@ -79,7 +79,7 @@ Preprocesamiento de datos para modelos de Machine Learning
 
 Mejora visual en fotografía digital
 
-📌 Nota
+ Nota
 
 Si GitHub no renderiza correctamente el notebook debido a su tamaño o a la cantidad de imágenes generadas, se recomienda descargar el archivo .ipynb y ejecutarlo localmente para una correcta visualización.
 
